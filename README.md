@@ -42,7 +42,7 @@ Created connections, join new tables, and calculations to manipulate data and en
 Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc).
 
 
-Project Insight
+Project  Insight
 
 Most of the customers spent the maximum amounts of money on purchasing products like clothing (63%), Electronics (21%) and furniture (17%) (Printers, Bookcases, Saree, etc).
 
